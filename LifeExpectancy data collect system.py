@@ -1,4 +1,3 @@
-#20864751_ChoiKinHo #DASC4300_Deliverable2
 #As a Life expectancy research team, we will join as a public health strategy team member to collaborate with medical professionals and hospital authority to develop a system to collect data
 #by providing census, health surveys, death registration and life table from their data entering that can let us
 #to analyse the different relationship between different aspects and the trend of life expectancy.
